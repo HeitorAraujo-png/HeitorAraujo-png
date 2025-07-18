@@ -1,45 +1,59 @@
 # 👋 Olá! Eu sou o Heitor Araujo
 
-🎯 Desenvolvedor Python apaixonado por transformar lógica em soluções práticas.  
-💡 Sempre explorando novas ideias — de pequenos jogos a sistemas completos com controle de usuários, backup e painel administrativo.  
-🚀 Foco em escrever código limpo, modular e com boas práticas (OOP, Git, versionamento, e mais).
+🎯 Sempre em busca do meu eu melhor.  
+💡 Estudando **Python** com foco em desenvolvimento profissional e boas práticas.  
+🔍 Em busca de uma oportunidade na área de programação para aplicar meus conhecimentos e evoluir ainda mais.
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-- 🐍 **Python** (com forte foco em POO)
-- 🐢 **Turtle** para criação de jogos e visualizações gráficas
-- 🧪 **Testes**, depuração e boas práticas
-- 🗂️ **Git/GitHub** para versionamento e colaboração
-- 🌐 **Django** (em andamento) para sistemas web robustos
-- 📁 Estruturação e manipulação de arquivos (.txt, .json, etc)
+- 🐍 **Python** (principal linguagem, com foco em OOP e aplicações reais)
+- 🐢 **Turtle** (para jogos e visualização gráfica)
+- 🧪 Testes, modularização e organização de código
+- 🗂️ Git e GitHub para versionamento
+- 🗃️ Manipulação de arquivos `.txt`, `.json`, etc.
+- 🌐 Estudando **Django** para desenvolvimento web
+
+---
+
+## 🚀 Futuro
+
+Estou determinado a expandir meus conhecimentos nas seguintes linguagens:
+
+- ☕ Java
+- 🌐 PHP
+- ⚙️ C, C#, C+, C++
 
 ---
 
 ## 🕹️ Projetos em destaque
 
 ### 🐍 Snake Game Personalizado
-- Versão estilizada do clássico Snake.
-- Personalização de cor, forma e pontuação com **sistema de High Score** salvo em arquivo.
-- Código totalmente orientado a objetos.
+> Uma releitura do clássico Snake:
+- Cores, formas e lógica customizadas
+- Pontuação com sistema de **High Score** salvo em arquivo `.txt`
+- Totalmente orientado a objetos
 
-### 🧠 Sistema de Ordens de Serviço
-- App completo com login/admin, gestão de usuários e backup.
-- Construído em Python com plano de migração para Django.
+### 📅 Sistema de Agenda com Gerenciamento de Usuários
+> Aplicativo com cadastro, login, permissões e painel de controle.  
+Ideal para empresas ou freelancers que precisam gerenciar tarefas e horários com segurança.
 
-### 📅 Agenda & Gerenciador de Usuários
-- Aplicativo de agendamento com controle de sessões e permissões.
-- Organização modular do código, foco em escalabilidade.
+### 🛠️ Sistema de Ordens de Serviço
+> Sistema de controle de OS com:
+- Backup automatizado
+- Painel administrativo
+- Estrutura escalável para migração futura ao Django
 
 ---
 
 ## 📈 Em constante evolução
 
-Atualmente estudando:
-- 🛠️ Django + APIs REST
-- 🧠 Algoritmos e estruturas de dados
-- 📦 Deploy e distribuição de aplicações Python
+Atualmente focado em:
+- 💼 Construção de portfólio com projetos reais
+- 🧠 Boas práticas em Python
+- 🛠️ Desenvolvimento web com Django
+- 📦 Deploy de aplicações
 
 ---
 
@@ -48,4 +62,5 @@ Atualmente estudando:
 - 💼 [LinkedIn](https://www.linkedin.com/in/heitorobaraujo/)
 - 💻 [GitHub](https://github.com/HeitorAraujo-png)
 
-Sinta-se à vontade para me seguir, dar sugestões ou iniciar uma colaboração. Vamos criar algo incrível juntos! 💻⚡
+Sinta-se à vontade para seguir, contribuir ou chamar para colaborar!  
+📍 _"Buscando sempre o próximo nível."_ 🚀
