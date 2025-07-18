@@ -60,7 +60,7 @@ Atualmente focado em:
 ## 📫 Entre em contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/heitorobaraujo/)
-- 💻 [GitHub](https://github.com/HeitorAraujo-png)
+- ✉️ [Email](hbrandaooliveira4@gmail.com)
 
 Sinta-se à vontade para seguir, contribuir ou chamar para colaborar!  
 📍 _"Buscando sempre o próximo nível."_ 🚀
