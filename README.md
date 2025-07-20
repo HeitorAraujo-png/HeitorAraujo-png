@@ -12,7 +12,7 @@
 - 🐢 **Turtle** (para jogos e visualização gráfica)
 - 🧪 Testes, modularização e organização de código
 - 🗂️ Git e GitHub para versionamento
-- 🗃️ Manipulação de arquivos `.txt`, `.json`, etc.
+- 🗃️ Manipulação de arquivos `.txt`, `.json`, `.csv`, etc.
 - 🌐 Estudando **Django** para desenvolvimento web
 
 ---
