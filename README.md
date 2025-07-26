@@ -1,8 +1,28 @@
 # 👋 Olá! Eu sou o Heitor Araujo
 
+Sou **Desenvolvedor Python** com foco em automação de processos, análise de dados e desenvolvimento web utilizando **Django**. Tenho experiência em criar sistemas que otimizam fluxos corporativos e simplificam a rotina de empresas, como **sistemas de controle de ordens de serviço** e **relatórios automatizados**.
+
+---
+
+## 🚀 **Sobre mim**
+- 💻 Desenvolvedor **Python + Django**.
+- 📊 Experiência com **pandas** e **openpyxl** para manipulação de dados em Excel/CSV.
+- 🛠 Sempre buscando **otimizar processos** com soluções inteligentes.
+
+---
+
 🎯 Sempre em busca do meu eu melhor.  
 💡 Estudando **Python** com foco em desenvolvimento profissional e boas práticas.  
 🔍 Em busca de uma oportunidade na área de programação para aplicar meus conhecimentos e evoluir ainda mais.
+
+---
+
+## 🛠 **Habilidades**
+- **Linguagens e Frameworks:** Python, Django, HTML, CSS, JavaScript (básico).
+- **Bibliotecas Python:** pandas, openpyxl, Pygame.
+- **Banco de Dados:** SQLite, PostgreSQL.
+- **Ferramentas:** Git, GitHub, VSCode
+- **Outros:** Automação de processos, análise de dados, relatórios dinâmicos.
 
 ---
 
@@ -44,6 +64,14 @@ Ideal para empresas ou freelancers que precisam gerenciar tarefas e horários co
 - Backup automatizado
 - Painel administrativo
 - Estrutura escalável para migração futura ao Django
+
+---
+
+## 📜 **Cursos**
+- **LGPD – Lei Geral de Proteção de Dados**  
+- Django Framework – Desenvolvimento Web com Python.  
+- Pandas e Automação com Python.  
+- Git e GitHub para versionamento de código.
 
 ---
 
