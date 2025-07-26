@@ -20,8 +20,8 @@ Sou **Desenvolvedor Python** com foco em automação de processos, análise de d
 ## 🛠 **Habilidades**
 - **Linguagens e Frameworks:** Python, Django, HTML, CSS, JavaScript (básico).
 - **Bibliotecas Python:** pandas, openpyxl, Pygame.
-- **Banco de Dados:** SQLite, PostgreSQL.
-- **Ferramentas:** Git, GitHub, VSCode
+- **Banco de Dados:** MySQL.
+- **Ferramentas:** Git, GitHub, VSCode.
 - **Outros:** Automação de processos, análise de dados, relatórios dinâmicos.
 
 ---
