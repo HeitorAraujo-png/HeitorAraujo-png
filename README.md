@@ -43,7 +43,7 @@ Estou determinado a expandir meus conhecimentos nas seguintes linguagens:
 
 - ☕ Java
 - 🌐 PHP
-- ⚙️ C, C#, C+, C++
+- ⚙️ C, C#, C++
 
 ---
 
