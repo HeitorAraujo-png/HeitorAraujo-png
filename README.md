@@ -18,8 +18,8 @@ Sou **Desenvolvedor Python** com foco em automação de processos, análise de d
 ---
 
 ## 🛠 **Habilidades**
-- **Linguagens e Frameworks:** Python, Django, HTML, CSS, JavaScript (básico).
-- **Bibliotecas Python:** pandas, openpyxl, Pygame.
+- **Linguagens e Frameworks:** Python, Django, HTML, CSS.
+- **Bibliotecas Python:** pandas, openpyxl, Pygame, Watchdog.
 - **Banco de Dados:** MySQL.
 - **Ferramentas:** Git, GitHub, VSCode.
 - **Outros:** Automação de processos, análise de dados, relatórios dinâmicos.
@@ -32,8 +32,8 @@ Sou **Desenvolvedor Python** com foco em automação de processos, análise de d
 - 🐢 **Turtle** (para jogos e visualização gráfica)
 - 🧪 Testes, modularização e organização de código
 - 🗂️ Git e GitHub para versionamento
-- 🗃️ Manipulação de arquivos `.txt`, `.json`, `.csv`, etc.
-- 🌐 Estudando **Django** para desenvolvimento web
+- 🗃️ Manipulação de arquivos `.txt`, `.json`, `.csv`, `.xlxs`,etc.
+- 🌐 Aprimorando **Django** para desenvolvimento web
 
 ---
 
@@ -88,7 +88,7 @@ Atualmente focado em:
 ## 📫 Entre em contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/heitorobaraujo/)
-- ✉️ [Email](mailto:hbrandaooliveira4@gmail.com)
+- ✉️ [Email](mailto:heitoraraujodev@gmail.com)
 
 Sinta-se à vontade para seguir, contribuir ou chamar para colaborar!  
 📍 _"Buscando sempre o próximo nível."_ 🚀
