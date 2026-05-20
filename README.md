@@ -89,6 +89,7 @@ Aplicação com:
 
 ## 📈 Atualmente Estudando
 
+- Machine Learning
 - Arquitetura de Software
 - DevOps
 - Estratégias de automação de testes
@@ -115,6 +116,9 @@ Criar soluções escaláveis e inteligentes unindo:
 - Pandas e Automação com Python
 - Git & GitHub
 - Estudos em Automação de Testes
+
+Em andamento:
+- Machine Learning
 
 ---
 
